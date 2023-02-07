@@ -1,0 +1,11 @@
+r
+h
+erase           
+loadbin          Image\MasterBoot.bin    0x01000000
+loadbin          Image\Bootsetting.bin   0x01002000
+loadbin          Image\APP1.bin          0x01004000
+loadbin          Image\APP2.bin          0x01020000
+loadbin          Image\ImageUpdate.bin   0x0103C000
+r
+g
+q

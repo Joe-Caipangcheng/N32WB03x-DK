@@ -1,0 +1,4 @@
+savebin          app1.bin    0x01004000              0x1C000
+r
+g
+q

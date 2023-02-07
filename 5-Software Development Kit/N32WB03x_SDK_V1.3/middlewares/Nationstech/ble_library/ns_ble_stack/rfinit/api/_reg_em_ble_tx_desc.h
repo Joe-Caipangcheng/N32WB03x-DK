@@ -1,0 +1,10 @@
+#ifndef __REG_EM_BLE_TX_DESC_H_
+#define __REG_EM_BLE_TX_DESC_H_
+
+#define REG_EM_BLE_TX_DESC_SIZE 16
+
+#define REG_EM_BLE_TX_DESC_BASE_ADDR EXCHANGE_MEM_BASE
+
+
+#endif // __REG_EM_BLE_TX_DESC_H_
+
