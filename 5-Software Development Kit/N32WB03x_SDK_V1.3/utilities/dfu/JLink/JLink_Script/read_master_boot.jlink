@@ -1,4 +1,0 @@
-savebin          MasterBoot.bin    0x01000000              0x2000
-r
-g
-q

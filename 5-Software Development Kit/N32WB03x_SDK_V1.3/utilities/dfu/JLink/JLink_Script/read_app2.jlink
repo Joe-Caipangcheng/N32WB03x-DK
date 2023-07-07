@@ -1,4 +1,0 @@
-savebin          app2.bin    0x01020000              0x1C000
-r
-g
-q

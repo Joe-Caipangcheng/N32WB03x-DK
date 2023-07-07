@@ -1,4 +1,0 @@
-savebin          bootsetting.bin    0x01002000              0x1000
-r
-g
-q
