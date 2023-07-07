@@ -1,0 +1,3 @@
+[submodule "N32WB03x_SDK.git"]
+	path = N32WB03x_SDK
+	url = https://gitee.com/joecai/n32wb03x-sdk.git
